@@ -1,0 +1,2 @@
+# bitclone
+Clone of Bitcoin
